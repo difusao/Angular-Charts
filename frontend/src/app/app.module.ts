@@ -7,6 +7,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { NgChartsModule } from 'ng2-charts';
 
 import { AppComponent } from './app.component';
+
 import { ChartlineComponent } from './component/chartline/chartline.component';
 import { ChartlinetimeComponent } from './component/chartlinetime/chartlinetime.component';
 import { HomeComponent } from './component/home/home.component';
